@@ -77,7 +77,7 @@ export const Header = () => {
                         </button>
                     </div>
 
-                    <div id={"nav-links"} className={`${hidden ? "hidden" : ""} items-center justify-between w-full md:flex md:w-auto md:order-1`}
+                    <div className={`${hidden ? "hidden" : ""} items-center justify-between w-full md:flex md:w-auto md:order-1`}
                         id="navbar-search">
                         <div className="relative mt-3 md:hidden">
                             <div className="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none">

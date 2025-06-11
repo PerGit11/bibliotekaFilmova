@@ -33,7 +33,7 @@ export const Header = () => {
                     <Link to="/" className="flex items-center space-x-3 rtl:space-x-reverse">
                         <img src={Logo} className="mr-2 h-8 sm:h-9" alt="BibliotekaFilmova Logo"/>
                         <span
-                            className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Biblioteka Filmova</span>
+                            className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">BibliotekaFilmova</span>
                     </Link>
 
                     <div id={"mobile-nav"} className="flex md:order-2">
